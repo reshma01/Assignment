@@ -30,14 +30,6 @@
 
    
 
-    <modules>
-        <module>test-view</module>
-        <module>test-services</module>
-        <module>test-config</module>
-       <!--  <module>test-content</module> -->
-        <module>test-all</module>
-    </modules>
-
 
     <build>
         <pluginManagement>
